@@ -14,3 +14,10 @@ def preprocess_features(df: pd.DataFrame):
     scaler = StandardScaler()
     X_scaled = scaler.fit_transform(X)
     return X_scaled, y, scaler
+
+def preprocess_input(input_data: pd.DataFrame) -> pd.DataFrame:
+    """Preprocess input data for prediction"""
+    # Assuming input_data has the same structure as training data
+    scaler = StandardScaler()
+    input_scaled = scaler.fit_transform(input_data)
+    return pd.DataFrame(input_scaled, columns=input_data.columns)
