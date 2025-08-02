@@ -6,3 +6,6 @@ pyyaml
 matplotlib
 seaborn
 streamlit
+plotly
+joblib
+pickle-mixin

@@ -1,0 +1,16 @@
+feature,importance
+Provider_Type_Specialist Office,16.5235238667137
+Cost_Per_Procedure,13.521648044544202
+Provider_Specialty,13.517277770753832
+Log_Claim_Amount,8.489303431636925
+Procedure_Code_Risk,7.747991641336598
+Diagnosis_Code,6.005887608061716
+Provider_Patient_Distance_Category_Low,5.643497572119899
+Admission_Type_Trauma,3.96710761157144
+Emergency_Flag,3.651995341732184
+Admission_Type_Newborn,3.616704230412453
+Admission_Type_Emergency,1.6863043605509227
+Copay_Ratio,1.5138077000443608
+Patient_Share,1.4504620358139557
+Procedure_Code,1.1988796561826685
+Length_Of_Stay_Norm,1.1977868331244788
