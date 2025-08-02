@@ -16,6 +16,13 @@ Healthcare fraud costs billions of dollars annually, making it crucial for insur
 - **Visualizes** insights through interactive dashboards
 - **Provides** real-time fraud risk assessment
 
+## 🚀 Live Demo
+You can explore the live demo of the project on Streamlit:
+[Live Demo](https://us-healthcare-claims-fraud-ml-f5mugbyjlwjq8klqqvrasy.streamlit.app/)
+
+## Demo Screenshot
+![Demo Screenshot](documentation/streamlit_01.png)
+
 ### 🎯 Key Features
 
 - 🤖 **Machine Learning Model**: CatBoost classifier with 85%+ accuracy
